@@ -13,6 +13,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFlD2XTOR0/QAPEyhnm_RWqqXxLD6hh4g/edit?utm_content=DAFlD2XTOR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFlD2XTOR0/QAPEyhnm_RWqqXxLD6hh4g/edit?utm_content=DAFlD2XTOR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+<img align="right" alt="code" width="400px" src="https://i.gifer.com/5eKX.gif">
 - ⚡ Fun fact **I think i'm not funny.**
 
 <h3 align="left">Connect with me:</h3>
