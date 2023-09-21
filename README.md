@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFlD2XTOR0/QAPEyhnm_RWqqXxLD6hh4g/edit?utm_content=DAFlD2XTOR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFlD2XTOR0/QAPEyhnm_RWqqXxLD6hh4g/edit?utm_content=DAFlD2XTOR0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<img align="right" alt="code" width="400px" src="https://github.com/miranimubin/miranimubin/assets/136144775/b5900b85-62b7-468a-8d1d-3487c7659025">
+- <img align="right" alt="code" width="500px" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 - ⚡ Fun fact **I think i'm not funny.**
 
 <h3 align="left">Connect with me:</h3>
