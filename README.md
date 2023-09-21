@@ -1,4 +1,4 @@
-
+![logo](https://github.com/miranimubin/cover-img/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Mubeen</h1>
 <h3 align="center">A passionate frontend developer from Khairpur Sindh Pakistan</h3>
 
